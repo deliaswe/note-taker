@@ -1,1 +1,1 @@
-web: node./app.js.
+web: sh setup.sh && node server.js
