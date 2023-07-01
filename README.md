@@ -20,6 +20,14 @@
 - https://github.com/deliaswe/note-taker
 
 ## Usage
+- Once on the app page, click the "Get Started" to go on the next page.
+- Users can click on the “Note Title” area and type in the title of their new note. Next click on the smaller “Note Text” to write new note.
+- When finished writing your note, you can then click on the save icon located to the left of the “+” that will save the new note.
+- On the left side of the application, you as user can see your new note title and when clicked on the title you will be able to view the title and body of the written notes, with the option to delete.
+
+![screencapture-localhost-3001-notes-2023-07-01-12_29_51](https://github.com/deliaswe/note-taker/assets/113808453/980f9f7f-2b48-450f-90fa-18deb1a0aa34)
+
+![screencapture-localhost-3001-notes-2023-07-01-12_48_56](https://github.com/deliaswe/note-taker/assets/113808453/96416cbb-e0a3-4788-9bce-24384036ca34)
 
 
 ## License
